@@ -20,4 +20,4 @@
 
 
 # Notice
- Replace 'service-name' with the name of the service you're troubleshooting. 
+ Replace `service-name` with the name of the service you're troubleshooting. 
