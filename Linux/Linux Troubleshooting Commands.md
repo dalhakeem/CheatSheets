@@ -20,4 +20,4 @@
 
 
 # Notice
- Replace <span style="color:red">`service-name`</span> with the name of the service you're troubleshooting. 
+ Replace <span style="color:red"> `service-name` </span> with the name of the service you're troubleshooting. 
