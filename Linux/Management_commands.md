@@ -3,7 +3,8 @@
 
 Here are some helpful commands for managing Linux. They also have brief descriptions with examples. 
 
-## File System Management
+# File System Management
+
 ls - List the contents of a directory.
 
 ```
@@ -42,7 +43,7 @@ mv - Move or rename a file or directory.
 mv source destination
 ```
 
-## Disk Management
+# Disk Management
 
 df - Display the amount of disk space used and available on file systems.
 
@@ -66,7 +67,7 @@ umount - Unmount a file system.
 ```
 umount file_system
 ```
-## Backup and Restore
+# Backup and Restore
 
 tar - Create an archive file.
 ```

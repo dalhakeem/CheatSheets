@@ -1,4 +1,4 @@
-## Linux Troubleshooting Command Cheat Sheet
+# Linux Troubleshooting Command Cheat Sheet
 
 - `ping`: Test network connectivity. Example: `ping google.com`.
 - `nslookup`: Find IP address for a domain name. Example: `nslookup google.com`.
@@ -18,4 +18,6 @@
 - `systemctl`: Control system services. Example: `systemctl status service-name`.
 - `service`: Control system services (legacy version, may not be available on all systems). Example: `service service-name status`.
 
-**Note**: Replace `service-name` with the name of the service you're troubleshooting.
+
+# Notice
+ Replace <span style="color:red">`service-name`</span> with the name of the service you're troubleshooting. 
