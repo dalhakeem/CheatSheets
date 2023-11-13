@@ -1,4 +1,5 @@
 All information below is a Layer Security model I created for a Linux server hardening approach with DISA consideration. These are things I have learned over the years and you feel like adding or making changes please feel free. 
+Each layer in this model addresses specific aspects of server security, and they work together to create a comprehensive security posture. It's important to regularly review and update each layer's strategies to adapt to evolving threats and technologies.
 
 # Linux_Server_Security_Layer_Model
 
@@ -101,7 +102,5 @@ This document outlines a layered approach to securing a Linux server in a produc
 
 **Note:** While STIGs are designed for DoD systems, they are publicly available and can be used by any organization to enhance security. However, some recommendations might be overly stringent for certain environments, so it's important to evaluate their applicability based on your specific requirements and risk profile.
 
----
 
-Each layer in this model addresses specific aspects of server security, and they work together to create a comprehensive security posture. It's important to regularly review and update each layer's strategies to adapt to evolving threats and technologies.
 
